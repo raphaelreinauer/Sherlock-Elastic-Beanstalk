@@ -12,4 +12,4 @@ deploy:
 	echo "Deploying app"
 	eb deploy sherlock-continuous-delivery-env
 
-all: install lint test 
+all: install lint test
