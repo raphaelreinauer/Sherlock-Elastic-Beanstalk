@@ -13,5 +13,6 @@ deploy:
 	eb list
 	eb use sherlock-env
 	eb status --verbose
+	eb deploy
 
 all: install lint test
