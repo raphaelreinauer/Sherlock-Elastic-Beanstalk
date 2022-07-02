@@ -10,6 +10,6 @@ lint:
 
 deploy:
 	echo "Deploying app"
-	eb deploy sherlock-env
+	eb deploy
 
 all: install lint test
