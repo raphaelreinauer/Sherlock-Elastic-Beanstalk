@@ -13,5 +13,5 @@ Once the virtual environment is set up, you can install the project dependencies
 ```make install``
 
 # Usage
-```python flask_app.py```
+```python application.py```
 This will start the application in the web browser. Open the browser and navigate to the URL http://localhost:5000/
